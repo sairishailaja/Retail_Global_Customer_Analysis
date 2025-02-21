@@ -22,7 +22,7 @@ Key features of the dashboard
     - Sales by segment : Bar chart showing total sales across different customer segments
     - Sales by category : pie chart visualizing sales distribution across product categories
     - Delivery time by Ship mode : Bar chart analysing delivery time by shipping mode
-
+    - Sales by Product: Bar Chart showing the total sales by product.
 
 4. Tools and technologies used
    - Power BI : Data visualization and Dashboard development
