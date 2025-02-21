@@ -28,4 +28,6 @@ Key features of the dashboard
    - Power BI : Data visualization and Dashboard development
    - DAX (Data Analysis Expressions)  : Custom Calculations for KPIs
    - Power Query - Data transormation and preprocessing
-   - Data modelling : Build Relationship between the tables
+   - Data modelling : Built Relationship between the tables
+  
+5. Datasets used: Orders, People and Returns
